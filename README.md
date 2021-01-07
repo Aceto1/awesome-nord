@@ -52,8 +52,8 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 
 ### Linux
 
-- [Nordic GTK Theme](https://www.gnome-look.org/p/1267246/)
-- [NordSur GTK Theme](https://github.com/nboughton/NordSur)
+- [Nordic GTK](https://www.gnome-look.org/p/1267246/)
+- [NordSur GTK](https://github.com/nboughton/NordSur)
 - [Pop-Nord](https://www.gnome-look.org/p/1460607)
 - [Nordic KDE](https://www.gnome-look.org/p/1460607)
 
@@ -69,7 +69,7 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 
 - [Wallpapers with OS specifics](https://github.com/tamaldearroz/nord-wallpapers)
 
-- [Nord styled Chemicals](https://github.com/tamaldearroz/nord-backgrounds/tree/main/avogadr.io)
+- [Nord styled chemicals](https://github.com/tamaldearroz/nord-backgrounds/tree/main/avogadr.io)
 
 - [Wallpapers from the Windows 10 Theme](https://gofile.io/d/Ea5SgH)
 
