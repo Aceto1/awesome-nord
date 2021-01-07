@@ -62,6 +62,7 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 ## Miscellaneous
 
 - [Discord](https://github.com/izutsumi/nordDiscord)
+- [Spicetify](https://github.com/ghostyghoster/Spicetify-Nord-theme)
 
 
 
