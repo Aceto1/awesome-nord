@@ -13,7 +13,7 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 * [OS](#OS)
   * [Windows](#Windows)
   * [Linux](#Linux)
-* [Other Applications](#Other Applications)
+* [Miscellaneous](#Miscellaneous)
 * [Wallpaper](#Wallpaper)
 
 
@@ -59,7 +59,7 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 
 
 
-## Other Applications
+## Miscellaneous
 
 - [Discord](https://github.com/izutsumi/nordDiscord)
 
