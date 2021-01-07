@@ -6,7 +6,15 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 
 ------
 
-[TOC]
+* [Browsers](#Browsers)
+  * [Firefox](#Firefox)
+  * [Chrome](#Chrome)
+* [Editors](#Editors)
+* [OS](#OS)
+  * [Windows](#Windows)
+  * [Linux](#Linux)
+* [Other Applications](#Other Applications)
+* [Wallpaper](#Wallpaper)
 
 
 
@@ -51,7 +59,7 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 
 
 
-### Other Applications
+## Other Applications
 
 - [Discord](https://github.com/izutsumi/nordDiscord)
 
