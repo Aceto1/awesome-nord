@@ -4,6 +4,8 @@ Nord is an arctic, north-bluish color palette. This repository contains communit
 
 Find more official information and ports on [nordtheme.com](https://www.nordtheme.com/).
 
+If you feel like anything is missing, don't hesitate to create a [new issue](https://github.com/Aceto1/awesome-nord/issues/new).
+
 ------
 
 * [Browsers](#Browsers)
