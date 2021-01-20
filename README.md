@@ -51,6 +51,7 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 - [Icons For File Explorer](https://www.deviantart.com/niivu/art/Nord-Icon-Theme-837265260)
 - [Dock Icons](https://www.deviantart.com/niivu/art/Nord-Dock-Icons-837539862)
 - [More Dock Icons](https://www.deviantart.com/mnmldsgn/art/Nord-Extra-Dock-Icons-843934452)
+- [Windows Terminal](https://github.com/thismat/nord-windows-terminal)
 
 ### Linux
 
