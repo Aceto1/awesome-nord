@@ -63,6 +63,7 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 
 - [Discord](https://github.com/izutsumi/nordDiscord)
 - [Spicetify](https://github.com/ghostyghoster/Spicetify-Nord-theme)
+- [Notion](https://drive.google.com/file/d/1YfFjwJ5AbQmoavtBJp1aTExHB0zLlAUt/view) by [u/vincentweber](https://www.reddit.com/user/vincentweber/)
 
 
 
