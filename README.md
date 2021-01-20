@@ -70,6 +70,7 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 - [ProtonMail](https://github.com/jonahleonardh/protonmailnord)
 - [Telegram](https://t.me/addtheme/GFxDRljkIFkj2cCB) by [u/kdnanmaga](https://www.reddit.com/user/kdnanmaga)
 - [GitHub](https://userstyles.org/styles/191792/github-nord) by [u/Trout_Tickler](https://www.reddit.com/user/Trout_Tickler/)
+- [Figma](https://www.figma.com/file/ksYz5tx2QkhXvEQldYRfzQ/Nord-Theme-Colors) by me
 
 
 
