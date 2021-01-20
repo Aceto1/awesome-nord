@@ -75,6 +75,8 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 
 - [Wallpapers from the Windows 10 Theme](https://gofile.io/d/Ea5SgH)
 
+- [Website with wallpaper showcase](https://sugarblank.github.io/)
+
   or
 
 - [Make your own with Image Go Nord](https://ign.schrodinger-hat.it/)
