@@ -66,6 +66,7 @@ Find more official information and ports on [nordtheme.com](https://www.nordthem
 - [Notion](https://drive.google.com/file/d/1YfFjwJ5AbQmoavtBJp1aTExHB0zLlAUt/view) by [u/vincentweber](https://www.reddit.com/user/vincentweber/)
 - [ProtonMail](https://github.com/jonahleonardh/protonmailnord)
 - [Telegram](https://t.me/addtheme/GFxDRljkIFkj2cCB) by [u/kdnanmaga](https://www.reddit.com/user/kdnanmaga)
+- [GitHub](https://userstyles.org/styles/191792/github-nord) by [u/Trout_Tickler](https://www.reddit.com/user/Trout_Tickler/)
 
 
 
