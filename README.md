@@ -39,6 +39,7 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 ## Editors
 
 - [Visual Studio](https://github.com/jwendl/nord-vs-theme)
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - [Typora](https://theme.typora.io/theme/Nord/)
 
 
