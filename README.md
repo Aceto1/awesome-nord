@@ -27,6 +27,7 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 - [Theme by dpcdpc11](https://www.deviantart.com/dpcdpc11/art/Nord-for-Firefox-837860916)
 - [Polar Night by christos](https://addons.mozilla.org/en-US/firefox/addon/nord-polar-night-theme/)
 - [Arctic Nord by christos](https://addons.mozilla.org/en-US/firefox/addon/arctic-nord-theme/)
+- [Theme by dragonejt](https://addons.mozilla.org/en-US/firefox/addon/nord-firefox/)
 
 
 
