@@ -53,6 +53,8 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 - [More Dock Icons](https://www.deviantart.com/mnmldsgn/art/Nord-Extra-Dock-Icons-843934452)
 - [Windows Terminal](https://github.com/thismat/nord-windows-terminal)
 
+
+
 ### Linux
 
 - [Nordic GTK](https://www.gnome-look.org/p/1267246/)
@@ -71,6 +73,7 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 - [Telegram](https://t.me/addtheme/GFxDRljkIFkj2cCB) by [u/kdnanmaga](https://www.reddit.com/user/kdnanmaga)
 - [GitHub](https://userstyles.org/styles/191792/github-nord) by [u/Trout_Tickler](https://www.reddit.com/user/Trout_Tickler/)
 - [Figma](https://www.figma.com/file/ksYz5tx2QkhXvEQldYRfzQ/Nord-Theme-Colors) by me
+- [Alfred](https://github.com/crispgm/alfred-nord)
 
 
 
