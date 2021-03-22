@@ -37,6 +37,7 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 
 - [Theme by sublime9-design](https://www.deviantart.com/sublime9-design/art/Nord-Theme-for-Chrome-V2-837463227)
 
+
 ## Extensions 
 ### Firefox
 - [Nord Web themes](https://addons.mozilla.org/en-US/firefox/addon/nord-web-theme/)
