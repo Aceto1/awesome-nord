@@ -66,6 +66,7 @@ If you feel like anything is missing, don't hesitate to create a [new issue](htt
 - [Nordic GTK](https://www.gnome-look.org/p/1267246/)
 - [NordSur GTK](https://github.com/nboughton/NordSur)
 - [Pop-Nord](https://www.gnome-look.org/p/1460607)
+- [nord-icons](https://github.com/serpro69/nord-icons)
 
 
 
